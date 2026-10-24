@@ -1,0 +1,282 @@
+{
+ "selected": [
+  "ui__cart__rec",
+  "ui__cart__cnt__12 / ui__cart__cnt__144",
+  "ui__cart__cnt__24 / ui__cart__cnt__144",
+  "ui__cart__cnt__6 / ui__cart__cnt__144",
+  "ui__cart__cnt__48 / ui__cart__cnt__144",
+  "ui__cart__cnt__144 / u__cart__cnt__144",
+  "ui__cart__cnt__120 / u__cart__cnt__120",
+  "ui__cart__cnt__3 / ui__cart__cnt__144",
+  "c__buy__cnt__12 / c__cart__cnt__12",
+  "c__buy__cnt__24 / c__cart__cnt__24",
+  "c__buy__cnt__6 / c__cart__cnt__6",
+  "c__buy__cnt__96 / c__cart__cnt__96",
+  "c__buy__cnt__6 / c__any__cnt__6",
+  "c__buy__cnt__6 / c__pv__cnt__6",
+  "c__buy__cnt__3 / c__cart__cnt__3",
+  "c__buy__cnt__12 / c__any__cnt__12",
+  "ui__any__cnt__144",
+  "ui__any__cnt__96",
+  "ui__any__cnt__120",
+  "ui__any__cnt__72",
+  "ui__any__cnt__48",
+  "ui__any__cnt__144 / u__any__cnt__144",
+  "ui__pv__cnt__144 / u__pv__cnt__144",
+  "ui__pv__cnt__24 / u__pv__cnt__24",
+  "i__buy__cnt__96 / i__pv__cnt__96",
+  "i__buy__cnt__144 / i__pv__cnt__144",
+  "i__buy__cnt__96 / i__any__cnt__96",
+  "i__buy__cnt__120 / i__any__cnt__120",
+  "i__buy__cnt__144 / i__any__cnt__144",
+  "ui__fav__cnt__12 / u__fav__cnt__12",
+  "i__buy__ndays__144",
+  "i__buy__cnt__48 / i__any__cnt__48",
+  "uc__buy__ndays__144",
+  "c__cart__cnt__12 / c__cart__cnt__24",
+  "uc__buy__ndays__72",
+  "uc__buy__cnt__144 / u__buy__cnt__144",
+  "uc__buy__cnt__48 / uc__buy__cnt__144",
+  "uc__buy__cnt__24 / uc__buy__cnt__72",
+  "c__pv__cnt__1 / c__pv__cnt__24",
+  "ui__buy__cnt__72 / uc__buy__cnt__72"
+ ],
+ "trace": [
+  {
+   "round": 0,
+   "spec": "ui__cart__rec",
+   "probe_gain": 0.009141108470491474
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__12 / ui__cart__cnt__144",
+   "probe_gain": 0.008943662412945953
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__24 / ui__cart__cnt__144",
+   "probe_gain": 0.008938339073048134
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__6 / ui__cart__cnt__144",
+   "probe_gain": 0.008795085759016288
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__48 / ui__cart__cnt__144",
+   "probe_gain": 0.008747878842272537
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__144 / u__cart__cnt__144",
+   "probe_gain": 0.008650086240884626
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__120 / u__cart__cnt__120",
+   "probe_gain": 0.008626886470596923
+  },
+  {
+   "round": 0,
+   "spec": "ui__cart__cnt__3 / ui__cart__cnt__144",
+   "probe_gain": 0.00856094988322166
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__12 / c__cart__cnt__12",
+   "probe_gain": 0.0016398260894500624
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__24 / c__cart__cnt__24",
+   "probe_gain": 0.0015982951746642965
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__6 / c__cart__cnt__6",
+   "probe_gain": 0.001567635184784498
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__96 / c__cart__cnt__96",
+   "probe_gain": 0.0015079537592166195
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__6 / c__any__cnt__6",
+   "probe_gain": 0.0014640327188417332
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__6 / c__pv__cnt__6",
+   "probe_gain": 0.001406011975171706
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__3 / c__cart__cnt__3",
+   "probe_gain": 0.0014054939567311742
+  },
+  {
+   "round": 1,
+   "spec": "c__buy__cnt__12 / c__any__cnt__12",
+   "probe_gain": 0.0014049183385845543
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__144",
+   "probe_gain": 0.0012282746310707249
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__96",
+   "probe_gain": 0.0012067058599581973
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__120",
+   "probe_gain": 0.001200024535339371
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__72",
+   "probe_gain": 0.0011680755360891915
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__48",
+   "probe_gain": 0.0011220700411985751
+  },
+  {
+   "round": 2,
+   "spec": "ui__any__cnt__144 / u__any__cnt__144",
+   "probe_gain": 0.001114598014931141
+  },
+  {
+   "round": 2,
+   "spec": "ui__pv__cnt__144 / u__pv__cnt__144",
+   "probe_gain": 0.001096533109841348
+  },
+  {
+   "round": 2,
+   "spec": "ui__pv__cnt__24 / u__pv__cnt__24",
+   "probe_gain": 0.0010912441869318223
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__96 / i__pv__cnt__96",
+   "probe_gain": 0.00021790925863873073
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__144 / i__pv__cnt__144",
+   "probe_gain": 0.0002155390423621284
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__96 / i__any__cnt__96",
+   "probe_gain": 0.00020746103896756435
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__120 / i__any__cnt__120",
+   "probe_gain": 0.00019194702635501326
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__144 / i__any__cnt__144",
+   "probe_gain": 0.00018948495743587035
+  },
+  {
+   "round": 3,
+   "spec": "ui__fav__cnt__12 / u__fav__cnt__12",
+   "probe_gain": 0.00018848219437170993
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__ndays__144",
+   "probe_gain": 0.00018565551153928994
+  },
+  {
+   "round": 3,
+   "spec": "i__buy__cnt__48 / i__any__cnt__48",
+   "probe_gain": 0.00017961246643447698
+  },
+  {
+   "round": 4,
+   "spec": "uc__buy__ndays__144",
+   "probe_gain": 0.00015374906275303357
+  },
+  {
+   "round": 4,
+   "spec": "c__cart__cnt__12 / c__cart__cnt__24",
+   "probe_gain": 0.0001268061906268686
+  },
+  {
+   "round": 4,
+   "spec": "uc__buy__ndays__72",
+   "probe_gain": 0.00012617170689752794
+  },
+  {
+   "round": 4,
+   "spec": "uc__buy__cnt__144 / u__buy__cnt__144",
+   "probe_gain": 0.00012023572796004967
+  },
+  {
+   "round": 4,
+   "spec": "uc__buy__cnt__48 / uc__buy__cnt__144",
+   "probe_gain": 0.000116507842143794
+  },
+  {
+   "round": 4,
+   "spec": "uc__buy__cnt__24 / uc__buy__cnt__72",
+   "probe_gain": 0.00011558448995495352
+  },
+  {
+   "round": 4,
+   "spec": "c__pv__cnt__1 / c__pv__cnt__24",
+   "probe_gain": 0.0001154450802129392
+  },
+  {
+   "round": 4,
+   "spec": "ui__buy__cnt__72 / uc__buy__cnt__72",
+   "probe_gain": 0.0001108866635096753
+  }
+ ],
+ "rounds": [
+  {
+   "round": 0,
+   "n_features": 0
+  },
+  {
+   "round": 1,
+   "n_features": 8,
+   "auc": 0.7808310192768987,
+   "logloss": 0.05042243715798
+  },
+  {
+   "round": 2,
+   "n_features": 16,
+   "auc": 0.8218687527418895,
+   "logloss": 0.0487446236650971
+  },
+  {
+   "round": 3,
+   "n_features": 24,
+   "auc": 0.8926208930612185,
+   "logloss": 0.04520998224957653
+  },
+  {
+   "round": 4,
+   "n_features": 32,
+   "auc": 0.8975800700179547,
+   "logloss": 0.04472069583503611
+  },
+  {
+   "round": 5,
+   "n_features": 40,
+   "auc": 0.9005397936176214,
+   "logloss": 0.04399082773644259
+  }
+ ]
+}
